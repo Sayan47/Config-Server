@@ -1,6 +1,2 @@
-spring:
-  application:
-    name: CONFIG-PROD
-
 sayan:
   value: 56
