@@ -1,6 +1,2 @@
-spring:
-  application:
-    name: CONFIG-SAYAN
-
 sayan:
-  value: 47
+  value: 4767
