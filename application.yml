@@ -1,3 +1,2 @@
-spring:
-  application:
-    name: CONFIG-DEFAULT
+sayan:
+  value: 789
